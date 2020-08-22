@@ -1,0 +1,24 @@
+{
+  "name": "api-yopmail",
+  "version": "0.2.0",
+  "description": "express vercel boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "start": "now dev",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.23.3"
+  },
+  "keywords": [
+    "vercel"
+  ],
+  "author": "Jesús Pérez <jasp402@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "jest": "^26.1.0",
+    "supertest": "^4.0.2"
+  }
+}
