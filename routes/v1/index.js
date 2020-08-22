@@ -14,7 +14,7 @@ r.get('/', (req, res) => {
   });
 });
 
-r.use('/getmail', function (req, res) {
+r.get('/getmail', function (req, res) {
     const petition = YOPmail.create();
     petition.then(response => {
         res.json({
@@ -25,7 +25,7 @@ r.use('/getmail', function (req, res) {
     })
 });
 
-r.use('/getinbox/:mail', function (req, res) {
+r.get('/getinbox/:mail', function (req, res) {
     let email = undefined;
     let query = '';
     if((req.params.mail).indexOf('@')>-1){
@@ -46,7 +46,7 @@ r.use('/getinbox/:mail', function (req, res) {
     });
 });
 
-r.use('/readmail/:mail/:id', function (req, res) {
+r.get('/readmail/:mail/:id', function (req, res) {
     let url = 'http://m.yopmail.com/en/m.php?';
     if(req.params.mail && req.params.id){
         url += `b=${req.params.mail}&id=${req.params.id}`

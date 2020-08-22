@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="697069be-ea98-408d-9685-016440ca744e" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/API-YOPmail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="697069be-ea98-408d-9685-016440ca744e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/v1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/v1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598072586246</updated>
-      <workItem from="1598072587809" duration="1896000" />
+      <workItem from="1598072587809" duration="2594000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598072703680</created>
@@ -98,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598074138399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update router method">
+      <created>1598074534477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598074534477</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,36 +112,41 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
     <MESSAGE value="Update project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update project" />
+    <MESSAGE value="update router method" />
+    <option name="LAST_COMMIT_MESSAGE" value="update router method" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="32" key="CommitChangelistDialog2" timestamp="1598074137718">
+    <state x="583" y="32" key="CommitChangelistDialog2" timestamp="1598074533836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598074137718" />
+    <state x="583" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598074533836" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1598074098706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598074098706" />
-    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1598074382581">
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1598074870235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598074382581" />
-    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1598074382581">
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598074870235" />
+    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1598074870235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598074382581" />
-    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1598074382581">
+    <state width="1899" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598074870235" />
+    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1598074870235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598074382581" />
-    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1598074382581">
+    <state width="1899" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598074870235" />
+    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1598074870235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598074382581" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598074142584">
+    <state width="1899" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598074870235" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598074536525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598074142584" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598074536525" />
+    <state x="646" y="261" width="627" height="518" key="find.popup" timestamp="1598074647683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="261" width="627" height="518" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598074647683" />
   </component>
 </project>
