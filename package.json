@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "easy-yopmail": "^1.4.1",
     "express": "^4.17.1",
     "helmet": "^3.23.3"
   },
