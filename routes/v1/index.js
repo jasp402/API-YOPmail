@@ -9,7 +9,7 @@ r.use('/echo', echo);
 r.get('/', (req, res) => {
   res.json({
     success: true,
-    message: 'API - YOPmail. v1 path live 🔥',
+    message: 'API - YOPmail. v1 path live',
     data: null
   });
 });

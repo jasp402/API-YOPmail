@@ -8,7 +8,7 @@ describe('V1 Root', () => {
     expect(response.status).toBe(200);
     expect(response.body).toEqual({
       success: true,
-      message: 'v1 path live 🔥',
+      message: 'API - YOPmail. v1 path live',
       data: null
     });
   });

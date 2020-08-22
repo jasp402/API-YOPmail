@@ -5,7 +5,7 @@ const r = Router();
 r.get('/', (req, res) => {
   res.json({
     success: true,
-    message: 'demo path live 🚀',
+    message: 'API - YOPmail. v1 path live 🔥',
     data: null
   });
 });
