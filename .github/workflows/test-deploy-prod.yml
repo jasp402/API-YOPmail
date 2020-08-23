@@ -27,4 +27,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          scope: ${{ secrets.VERCEL_SCOPE }}
           vercel-args: "--confirm --prod"
