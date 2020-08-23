@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="697069be-ea98-408d-9685-016440ca744e" name="Default Changelist" comment="add scope and name vercel.json">
+    <list default="true" id="697069be-ea98-408d-9685-016440ca744e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +94,7 @@
       <updated>1598072586246</updated>
       <workItem from="1598072587809" duration="3766000" />
       <workItem from="1598197790199" duration="6105000" />
+      <workItem from="1598204875927" duration="1350000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598072703680</created>
@@ -157,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598203249458</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update funcion create mail">
+      <created>1598204976602</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598204976602</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,13 +182,14 @@
     <MESSAGE value="Update action" />
     <MESSAGE value="add --confirm" />
     <MESSAGE value="add scope and name vercel.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scope and name vercel.json" />
+    <MESSAGE value="update funcion create mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="update funcion create mail" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="32" key="CommitChangelistDialog2" timestamp="1598203664297">
+    <state x="583" y="32" key="CommitChangelistDialog2" timestamp="1598206362703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598203664297" />
+    <state x="583" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598206362703" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1598075320979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,10 +210,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598203725748" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598203251229">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598205068154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598203251229" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598205068154" />
     <state x="646" y="261" width="627" height="518" key="find.popup" timestamp="1598076121112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
