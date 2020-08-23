@@ -1378,10 +1378,10 @@ dont-sniff-mimetype@1.1.0:
   resolved "https://registry.yarnpkg.com/dont-sniff-mimetype/-/dont-sniff-mimetype-1.1.0.tgz#c7d0427f8bcb095762751252af59d148b0a623b2"
   integrity sha512-ZjI4zqTaxveH2/tTlzS1wFp+7ncxNZaIEWYg3lzZRHkKf5zPT/MnEG6WL0BhHMJUabkh8GeU5NL5j+rEUCb7Ug==
 
-easy-yopmail@^1.4.4:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/easy-yopmail/-/easy-yopmail-1.4.4.tgz#4ae6859b83fd5b33ae6b8df929699485353de493"
-  integrity sha512-Obq7UtHmONBmLuqsJokby5AGm1dfi8tYMYKg3dIEvN4tqUMxvJq0QCCo4bZ8wLZMnlFEJtUtM4uyfO54mq9kMg==
+easy-yopmail@^1.4.5:
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/easy-yopmail/-/easy-yopmail-1.4.5.tgz#870338f2d6d6a26b9ef830a7ccd3cce25e474e9f"
+  integrity sha512-r+qpZeJOQgHJqeGBEPp3Pl6PR9K+9VokVLtC5esmPbadgJBxZ9l5oYH2bK7PSpLhIWL7nwMdeyzXrP0qFTZrzw==
   dependencies:
     body-parser "^1.19.0"
     cheerio "^1.0.0-rc.3"
