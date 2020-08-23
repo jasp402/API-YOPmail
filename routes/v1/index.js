@@ -15,7 +15,7 @@ r.get('/', (req, res) => {
 });
 
 r.get('/getmail', function (req, res) {
-    const petition = YOPmail.create();
+    const petition = YOPmail.createMail();
     petition.then(response => {
         res.json({
             success: true,
